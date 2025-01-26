@@ -1,3 +1,6 @@
+# 第一个程序
+print("Hello World")
+
 # 1. 数字类型
 # 1.1 整形int
 a = 10
